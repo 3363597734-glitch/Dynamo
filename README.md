@@ -22,12 +22,12 @@ CCNNs model complex nonlinear dynamics inspired by the primary visual cortex, bu
 - Frequent accesses to neighboring neuron outputs introduce communication overhead.
 
 Dynamo addresses these challenges using hardware-friendly approximations, history-gated execution, and a dataflow designed for neighborhood coupling.
+![Motivation](https://github.com/user-attachments/assets/827353b6-51b5-48e3-9c17-0e9f27b6d03c)
 
-![Motivation](https://github.com/user-attachments/assets/632c1ad6-1191-4456-a901-2cbf6bb55476)
 
 ## Overall Architecture
 
-![Overall Architecture](https://github.com/user-attachments/assets/827353b6-51b5-48e3-9c17-0e9f27b6d03c)
+![Overall Architecture](https://github.com/user-attachments/assets/632c1ad6-1191-4456-a901-2cbf6bb55476)
 
 Dynamo consists of three main components:
 
